@@ -14,7 +14,7 @@ Motivated and detail-oriented Computer Science undergraduate with hands-on exper
 - 🌱 Exploring advanced concepts in **AI, Embedded Systems**, and **Cloud Integration**
 
 ### 🌐 Portfolio & Contact
-- 🧠 Portfolio: [rushyanth-tangudu.github.io](https://rushyanth-tangudu.github.io)
+- 🧠 Portfolio: https://rushyanthtangudu.netlify.app
 - 📧 Email: **rushyanthtangudu289@gmail.com**
 
 ---
